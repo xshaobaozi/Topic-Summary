@@ -1,3 +1,5 @@
+# React
+
 ## react setState 是同步还是异步
 
 setState 分两种情况,
@@ -16,19 +18,28 @@ setState 分两种情况,
 - 在高阶组件中由于 refs 属性不能贯穿传递，但可以使用 React.forwardRef 来替代。
 - 在高阶组件内，应避免对组件做任何修改。应使用组合技术，将输入的组件包裹到一个容器组件中。
 
+
+# Vue
+
+# Javascript 基础
+
 ## 解释一下原型链
 
 原型链是 js 的原型对象 每个对象都有它的原型 比如 new Person -> Person 类 -> Object -> null
 
 ## instanceof 原理
 
-[apply](./src/instanceof.js)
+[instanceof](./src/instanceof.js)
 
 ## apply call bind 的作用及区别
 
 [apply](./src/apply.js)
 [bind](./src/bind.js)
 [call](./src/call.js)
+
+# CSS
+
+## flex实现元素均匀分布并向左对齐
 
 ## position 有哪些值，作用分别是什么
 
@@ -76,6 +87,8 @@ absolute(绝对定位)是指给元素设置绝对的定位，相对定位的对�
 
 跟随窗口
 
+# 浏览器
+
 ## 说下你对 DOM 树的理解
 
 DOM 是英文 Document Object Model 的缩写，即文档对象模型。它是一种跨平台的、独立于编程语言的 API，它把 HTML、XHTML 或 XML 文档当作一个树结构，而每个节点视为一个对象，这些对象可以被编程语言操作，进而改变文档的结构，映射到文档的显示。
@@ -83,8 +96,21 @@ DOM 是英文 Document Object Model 的缩写，即文档对象模型。它是�
 简单来说，DOM 就是我们为了方便编程语言对 HTML 等文档进行操作，所以啊，把 HTML 文档中的节点全部视为一个个的对象，然后这些对象依照层级关系形成一棵树，这棵树就命名为 DOM 树。有了对象，编程就方便多了，只要一层层拿到对象就可以优雅地改变对象的属性进而动态地改变 HTML 等文档的展示。
 
 ## 重排和重绘是什么，有什么区别
-[知乎链接](https://zhuanlan.zhihu.com/p/54811712)
+
+[【开发必看】你真的了解回流和重绘吗？](https://zhuanlan.zhihu.com/p/54811712)
 
 ## https 加密过程是怎样的
+[HTTPS加密（握手）过程](https://www.jianshu.com/p/e30a8c4fa329)
+
+[HTTPS 为什么安全? 真的安全吗?](https://www.jianshu.com/p/463291c6b22d)
+
+[HTTPS 中间人攻击及其防范](https://segmentfault.com/a/1190000013075736)
+
+[浏览器CA认证流程](https://blog.csdn.net/qq_22771739/article/details/86479411)
 
 ## 实现 add(1)(2)(3)
+[curry](./src/curry.js)
+
+# 算法
+
+## 翻转二叉树
