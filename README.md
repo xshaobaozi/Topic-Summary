@@ -23,19 +23,38 @@
   - [什么是高阶组件，请举例说明](./md/什么是高阶组件，请举例说明.md)
 
 # Vue
+
+- vue 生命周期每一步做了什么
 - 响应式原理
-- vuex原理
-- ref reactive
+  - 数组监听
+- nextTick
+- v-model 原理
+- vue 动画
+- vue data 为什么是函数
+- 虚拟 dom
+- vuex 原理
+- ref reactivestopImmediatePropagation
 - 生命周期
 - 组件在哪里挂载
 - 解除副作用
-- slot原理
+- slot 原理
 - key
 - diff
-- 组件prop和state传递
-- setup相关
+- 组件 prop 和 state 传递
+- setup 相关
 - vue.use
-- destroy后还能做什么操作
+- destroy 后还能做什么操作
+- watch
+- computed
+- vue2 和 vue3 区别
+
+# 路由
+
+    vue、react路由原理
+
+# 跨端
+
+    Taro原理
 
 # Javascript 基础
 
@@ -79,13 +98,13 @@
 
 # webpack
 
-- webpack原理
+- webpack 原理
 - ast
-- babel相关
-    - babel原理
-    - 怎么写一个babel
-- vite和webpack
-- rollup、vite、webpack有什么区别
+- babel 相关
+  - babel 原理
+  - 怎么写一个 babel
+- vite 和 webpack
+- rollup、vite、webpack 有什么区别
 
 # 浏览器
 
@@ -131,6 +150,10 @@
   - [浏览器缓存](./md/浏览器缓存.md)
 
   - 3 次握手过程
+
+# 微前端
+
+# server less
 
 # 算法
 
