@@ -25,27 +25,36 @@
 # Vue
 
 - vue 生命周期每一步做了什么
+  - [Vue 每个生命周期做了什么](https://www.jianshu.com/p/8c23ed71a59d)
 - 响应式原理
+  - [深入浅出 Vue 响应式原理](https://segmentfault.com/a/1190000019700618)
+  - [尤雨溪国外教程：亲手带你写个简易版的 Vue！](https://juejin.cn/post/6992018709439053837#heading-5)
   - 数组监听
 - nextTick
+  - [浅析 Vue.nextTick()原理](https://segmentfault.com/a/1190000020499713?utm_source=sf-similar-article)
 - v-model 原理
 - vue 动画
 - vue data 为什么是函数
+  - [为什么 vue 组件中 data 必须用函数表达？](https://zhuanlan.zhihu.com/p/159452050)
 - 虚拟 dom
 - vuex 原理
+  - [vuex 工作原理详解](https://www.jianshu.com/p/d95a7b8afa06)
+  - [Mutation 不能使用异步函数，为什么？](https://www.jianshu.com/p/d071e205b249)
+  - [为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？](https://blog.csdn.net/weixin_49757069/article/details/118388279)
 - ref reactivestopImmediatePropagation
-- 生命周期
-- 组件在哪里挂载
-- 解除副作用
 - slot 原理
 - key
+  - [vue中的key](https://juejin.cn/post/6844904053344829453)
 - diff
+  - [15张图，20分钟吃透Diff算法核心原理，我说的！！！](https://juejin.cn/post/6994959998283907102)
+  - [React、Vue2、Vue3的三种Diff算法](https://juejin.cn/post/6919376064833667080)
 - 组件 prop 和 state 传递
 - setup 相关
 - vue.use
 - destroy 后还能做什么操作
 - watch
 - computed
+  - [vuex 工作原理详解](https://www.jianshu.com/p/d95a7b8afa06)
 - vue2 和 vue3 区别
 
 # 路由
