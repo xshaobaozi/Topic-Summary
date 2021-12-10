@@ -44,13 +44,18 @@
 - ref reactivestopImmediatePropagation
 - slot 原理
 - key
-  - [vue中的key](https://juejin.cn/post/6844904053344829453)
+  - [vue 中的 key](https://juejin.cn/post/6844904053344829453)
 - diff
-  - [15张图，20分钟吃透Diff算法核心原理，我说的！！！](https://juejin.cn/post/6994959998283907102)
-  - [React、Vue2、Vue3的三种Diff算法](https://juejin.cn/post/6919376064833667080)
+  - [15 张图，20 分钟吃透 Diff 算法核心原理，我说的！！！](https://juejin.cn/post/6994959998283907102)
+  - [React、Vue2、Vue3 的三种 Diff 算法](https://juejin.cn/post/6919376064833667080)
+  - [详解 vue 的 diff 算法](https://juejin.cn/post/6844903607913938951#heading-11)
 - 组件 prop 和 state 传递
 - setup 相关
+  - [Vue3 script setup 语法糖详解](https://juejin.cn/post/7009282373476941831)
+- Composition
+  - [Vue Composition API 陷阱](https://juejin.cn/post/6855473771013226503)
 - vue.use
+  - [Vue.use 到底是什么鬼](https://juejin.cn/post/6844904051637764109)
 - destroy 后还能做什么操作
 - watch
 - computed
@@ -117,6 +122,8 @@
 
 # 浏览器
 
+- CORS
+- CSRF
 - web work
 - server work
 - pwa
