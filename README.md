@@ -11,6 +11,7 @@
 - diff
 - key 作用
 - context
+  - [【react】context VS redux](https://juejin.cn/post/6973977847547297800)
 - 跨组件传递数据
 - 生命周期
 - useEffect
@@ -168,6 +169,11 @@
   - 3 次握手过程
 
 # 微前端
+  - 使用场景
+  - 原理
+  - 怎么实现黑盒
+  - 样式隔离
+  - 代码隔离原理
 
 # server less
 
