@@ -134,11 +134,18 @@
 - rollup、vite、webpack 有什么区别
   - [vite和webpack的区别](https://juejin.cn/post/6893699833425559559)
 - hotreload 原理
-
+  - [webpack热加载的实现原理](https://juejin.cn/post/6885348399924084744)
 # 浏览器
 
 - CORS
+  - [面试官问我CORS跨域，我直接一套操作斩杀！](https://juejin.cn/post/6983852288091619342)
+  - [15 张精美动图全面讲解 CORS](https://juejin.cn/post/6856556746706518024)
 - CSRF
+  - [「每日一题」CSRF 是什么？](https://zhuanlan.zhihu.com/p/22521378)
+  - [前端安全系列之二：如何防止CSRF攻击？](https://juejin.cn/post/6844903689702866952)
+- xss
+  - [前端面试查漏补缺--(七) XSS攻击与CSRF攻击](https://juejin.cn/post/6844903781704925191)
+  - [这一次，彻底理解XSS攻击](https://juejin.cn/post/6912030758404259854)
 - web work
 - server work
 - pwa
@@ -184,6 +191,9 @@
 
   - 3 次握手过程
 
+- HTTP状态码
+  - [前端面试必考之http状态码有哪些](https://juejin.cn/post/6844903576033034248)
+  - [常用http状态码](https://juejin.cn/post/7003948404011171877)
 # 微前端
 
 - 使用场景
