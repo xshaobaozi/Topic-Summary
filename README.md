@@ -15,6 +15,7 @@
 - 跨组件传递数据
 - 生命周期
 - useEffect
+- useRef
 - hook 原理
 - useState
 - 有什么 hook
@@ -62,16 +63,25 @@
 - computed
   - [vuex 工作原理详解](https://www.jianshu.com/p/d95a7b8afa06)
 - vue2 和 vue3 区别
+  - [（建议收藏）Vue3 对比 Vue2.x 差异性、注意点、整体梳理，与 React hook 比又如何？（面试热点）](https://juejin.cn/post/6892295955844956167)
+- vue scope 原理
+  - [vue 中 style 下 scope 的使用和坑](https://www.cnblogs.com/makai/p/11415156.html)
 
 # 路由
 
-    vue、react路由原理
+- vue、react 路由原理
+  - [前端路由简介以及 vue-router 实现原理](https://juejin.cn/post/6844903615283363848)
+  - [彻底揭秘keep-alive原理](https://juejin.cn/post/6844903837770203144)
 
 # 跨端
 
     Taro原理
 
 # Javascript 基础
+
+- 节流防抖
+  - [7分钟理解JS的节流、防抖及使用场景](https://juejin.cn/post/6844903669389885453)
+  - [手写防抖函数&节流函数](https://juejin.cn/post/6959094874264043533)
 
 - 前端模块化机制
 
@@ -114,12 +124,16 @@
 # webpack
 
 - webpack 原理
-- ast
+  - [面试官：webpack原理都不会？](https://juejin.cn/post/6859538537830858759#comment)
+  - [手写webpack核心原理，再也不怕面试官问我webpack原理](https://juejin.cn/post/6854573217336541192)
 - babel 相关
-  - babel 原理
-  - 怎么写一个 babel
+  - [用 babel 写一个代码转换工具](https://juejin.cn/post/6955458234308100132)
 - vite 和 webpack
+  [Vite介绍和原理解析](https://juejin.cn/post/6992200385561624607)
+  [带你解读 webpack 打包原理及vite的优势](https://juejin.cn/post/7031421642513317918)
 - rollup、vite、webpack 有什么区别
+  - [vite和webpack的区别](https://juejin.cn/post/6893699833425559559)
+- hotreload 原理
 
 # 浏览器
 
@@ -157,6 +171,8 @@
 
   - [HTTP/2 相比 1.0 有哪些重大改进？](https://www.zhihu.com/question/34074946)
   - [http1/2/3 协议的对比（防忘）](https://www.jianshu.com/p/2e90fb951d17)
+  - [http1 vs http2](https://http2.akamai.com/demo)
+  - [一文读懂 HTTP/2 及 HTTP/3 特性](https://blog.fundebug.com/2019/03/07/understand-http2-and-http3/)
 
 - 浏览器缓存策略
 
@@ -169,11 +185,12 @@
   - 3 次握手过程
 
 # 微前端
-  - 使用场景
-  - 原理
-  - 怎么实现黑盒
-  - 样式隔离
-  - 代码隔离原理
+
+- 使用场景
+- 原理
+- 怎么实现黑盒
+- 样式隔离
+- 代码隔离原理
 
 # server less
 
