@@ -8,6 +8,7 @@
 - setState 相关
   - [react setState 是同步还是异步](./md/reactsetState是同步还是异步.md)
 - fiber 相关
+  - [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239)
 - diff
 - key 作用
 - context
@@ -15,8 +16,13 @@
 - 跨组件传递数据
 - 生命周期
 - useEffect
+  [useEffect 和 useLayoutEffect 的区别](https://juejin.cn/post/6844904008402862094)
 - useRef
+- useMeno、useCallback、Meno、Callback
+  - [useMemo, useCallback, useEffect 三者区别](https://juejin.cn/post/7008433550307360798)
+  - [详解 React useCallback & useMemo](https://juejin.cn/post/6844904101445124110)
 - hook 原理
+  - [「react进阶」一文吃透react-hooks原理](https://juejin.cn/post/6944863057000529933)
 - useState
 - 有什么 hook
 - useMeno、useCallback
