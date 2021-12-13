@@ -147,9 +147,17 @@
   - [前端面试查漏补缺--(七) XSS攻击与CSRF攻击](https://juejin.cn/post/6844903781704925191)
   - [这一次，彻底理解XSS攻击](https://juejin.cn/post/6912030758404259854)
 - web work
+  - [JavaScript 性能利器 —— Web Worker](https://juejin.cn/post/6844903736238669837)
+  - [Canvas 最佳实践（性能篇）](https://fed.taobao.org/blog/taofed/do71ct/canvas-performance)
+  - [如何使用 Web Worker 为 JS 创造多线程环境？](https://juejin.cn/post/6991140329931931656)
 - server work
+  - [web worker和service worker](https://juejin.cn/post/6924211891719897101#heading-12)
 - pwa
+  - [PWA技术解析及爱奇艺PC端的实践](https://juejin.cn/post/7001533125213814797)
+  - [改造你的网站，变身 PWA](https://juejin.cn/post/6844903472010100749)
 - 离线缓存
+  - [Service Worker离线缓存实践](https://juejin.cn/post/6844903906670018568)
+  - [ServiceWorker 优化项目缓存命中率](https://juejin.cn/post/7021842659933159431)
 - 减少白屏
 
   - [前端性能优化之白屏时间](https://cloud.tencent.com/developer/article/1508941)
