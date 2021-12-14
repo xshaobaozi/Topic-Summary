@@ -9,6 +9,7 @@
   - [react setState 是同步还是异步](./md/reactsetState是同步还是异步.md)
 - fiber 相关
   - [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239)
+  - [走进React Fiber的世界](https://juejin.cn/post/6943896410987659277)
 - diff
 - key 作用
 - context
