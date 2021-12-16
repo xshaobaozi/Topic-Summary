@@ -58,6 +58,7 @@
   - [15 张图，20 分钟吃透 Diff 算法核心原理，我说的！！！](https://juejin.cn/post/6994959998283907102)
   - [React、Vue2、Vue3 的三种 Diff 算法](https://juejin.cn/post/6919376064833667080)
   - [详解 vue 的 diff 算法](https://juejin.cn/post/6844903607913938951#heading-11)
+  - [React diff算法Part 1: 传统diff算法的时间复杂度为什么是O(n^3)?](https://zhuanlan.zhihu.com/p/344702969)
 - 组件 prop 和 state 传递
 - setup 相关
   - [Vue3 script setup 语法糖详解](https://juejin.cn/post/7009282373476941831)
@@ -104,7 +105,13 @@
 - 浮点数转二进制时丢失了精度，计算完再转回十进制时和理论结果不同十进制转二进制计算后再转十进制输出
 
 - 实现一个 promise
-
+  - [从零开始手写 Promise](https://zhuanlan.zhihu.com/p/144058361)
+- 实现一个 发布订阅
+- 继承有多少种方式
+- 设计模式知道多少
+- ES6
+- ES6 数据类型
+- Map WeakSet
 - 解释一下原型链
 
   - 原型链是 js 的原型对象 每个对象都有它的原型 比如 new Person -> Person 类 -> Object -> null
@@ -221,6 +228,11 @@
 - 代码隔离原理
 
 # server less
+
+# 业务题
+
+-[字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527)
+-[手写题](https://github.com/qianlongo/fe-handwriting)
 
 # 算法
 
