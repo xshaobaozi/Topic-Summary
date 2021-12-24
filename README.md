@@ -58,7 +58,7 @@
   - [15 张图，20 分钟吃透 Diff 算法核心原理，我说的！！！](https://juejin.cn/post/6994959998283907102)
   - [React、Vue2、Vue3 的三种 Diff 算法](https://juejin.cn/post/6919376064833667080)
   - [详解 vue 的 diff 算法](https://juejin.cn/post/6844903607913938951#heading-11)
-  - [React diff算法Part 1: 传统diff算法的时间复杂度为什么是O(n^3)?](https://zhuanlan.zhihu.com/p/344702969)
+  - [React diff 算法 Part 1: 传统 diff 算法的时间复杂度为什么是 O(n^3)?](https://zhuanlan.zhihu.com/p/344702969)
 - 组件 prop 和 state 传递
 - setup 相关
   - [Vue3 script setup 语法糖详解](https://juejin.cn/post/7009282373476941831)
@@ -105,7 +105,7 @@
 - 浮点数转二进制时丢失了精度，计算完再转回十进制时和理论结果不同十进制转二进制计算后再转十进制输出
 
 - 实现一个 promise
-  - [从零开始手写 Promise](https://zhuanlan.zhihu.com/p/144058361)
+  - [Promise.then 是如何实现链式调用的](https://juejin.cn/post/6883121706123132936#comment)
 - 实现一个 发布订阅
 - 继承有多少种方式
 - 设计模式知道多少
@@ -231,11 +231,11 @@
 
 # 业务题
 
--[字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527)
--[手写题](https://github.com/qianlongo/fe-handwriting)
+-[字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527) -[手写题](https://github.com/qianlongo/fe-handwriting)
 
 # 算法
 
 - 常用排序
 - 洗牌算法
+  [洗牌算法(shuffle)的 js 实现](https://github.com/ccforward/cc/issues/44)
 - 反转二叉树
