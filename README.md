@@ -162,7 +162,12 @@
   - [webpack 热加载的实现原理](https://juejin.cn/post/6885348399924084744)
 
 # 浏览器
-
+- 网络知识
+  - [通过讲故事搞定前端网络知识](https://juejin.cn/post/6844903773588963342)
+  - [（建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.cn/post/6844904100035821575)
+- CDN
+  - [前端必需了解的CDN知识](https://juejin.cn/post/6913704568325046279#heading-19)
+  - [关于 cdn、回源等问题一网打尽](https://juejin.cn/post/6844903604596244493)
 - CORS
   - [面试官问我 CORS 跨域，我直接一套操作斩杀！](https://juejin.cn/post/6983852288091619342)
   - [15 张精美动图全面讲解 CORS](https://juejin.cn/post/6856556746706518024)
@@ -237,11 +242,15 @@
 - 样式隔离
 - 代码隔离原理
 
+# Node
+  - [Redis缓存击穿、穿透、雪崩概念及解决方案](https://juejin.cn/post/7011672884271661064)
 # server less
 
 # 业务题
 
--[字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527) -[手写题](https://github.com/qianlongo/fe-handwriting)
+- [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527) 
+- [手写题](https://github.com/qianlongo/fe-handwriting)
+- [字节跳动面试过程--前端开发岗](https://zhuanlan.zhihu.com/p/141165007?utm_source=wechat_session&utm_medium=social&utm_oi=77664010371072) -[手写题](https://github.com/qianlongo/fe-handwriting)
 
 # 算法
 
