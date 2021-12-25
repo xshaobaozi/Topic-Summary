@@ -244,7 +244,12 @@
 
 # Node
   - [Redis缓存击穿、穿透、雪崩概念及解决方案](https://juejin.cn/post/7011672884271661064)
+  - [浏览器与Node的事件循环(Event Loop)有何区别?](https://juejin.cn/post/6844903761949753352#comment)
 # server less
+
+# 文章
+
+  - [前端年后面试题,80%直接进大厂](https://i1snanu3wq.feishu.cn/base/bascnktJuVJRVB24NPsuKjBW8Tq?table=tbl9GPmIX1pmslCs&view=vewJHSwJVd)
 
 # 业务题
 
