@@ -162,7 +162,7 @@
   - [webpack 热加载的实现原理](https://juejin.cn/post/6885348399924084744)
 
 # 浏览器
-
+- [异步网络请求xhr、ajax、fetch与axios对比](https://juejin.cn/post/6844904058466074637)
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 - 网络知识
   - [通过讲故事搞定前端网络知识](https://juejin.cn/post/6844903773588963342)
