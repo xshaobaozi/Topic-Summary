@@ -29,7 +29,7 @@
 - useState
 - 组件更新优化
 - React文章
-  - [使用 React Hooks 声明 setInterval](https://overreacted.io/zh-hans/making-setinterval-declarative-with-react-hooks/
+  - [使用 React Hooks 声明 setInterval](https://overreacted.io/zh-hans/making-setinterval-declarative-with-react-hooks/)
   - [使用 React Hooks 声明 setInterval](https://overreacted.io/zh-hans/making-setinterval-declarative-with-react-hooks/)
   - [react-as-a-ui-runtime](https://overreacted.io/zh-hans/react-as-a-ui-runtime/)
   - [函数式组件与类组件有何不同？](https://overreacted.io/zh-hans/how-are-function-components-different-from-classes/)
@@ -74,7 +74,7 @@
 - Composition
   - [Vue Composition API 陷阱](https://juejin.cn/post/6855473771013226503)
 - vue.use
-  - [Vue.use 到底是什么鬼](https://juejin.cn/post/6844904051637764109)而入日日热热热热热若若若若若若若1111111111111111111111111111111111111111111111111111热
+  - [Vue.use 到底是什么鬼](https://juejin.cn/post/6844904051637764109)
 - destroy 后还能做什么操作
 - watch
 - computed
@@ -162,6 +162,8 @@
   - [webpack 热加载的实现原理](https://juejin.cn/post/6885348399924084744)
 
 # 浏览器
+
+- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 - 网络知识
   - [通过讲故事搞定前端网络知识](https://juejin.cn/post/6844903773588963342)
   - [（建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.cn/post/6844904100035821575)
@@ -219,10 +221,12 @@
   - [http1/2/3 协议的对比（防忘）](https://www.jianshu.com/p/2e90fb951d17)
   - [http1 vs http2](https://http2.akamai.com/demo)
   - [一文读懂 HTTP/2 及 HTTP/3 特性](https://blog.fundebug.com/2019/03/07/understand-http2-and-http3/)
+  - [HTTP3.0和QUIC协议那些事](https://blog.csdn.net/wolfGuiDao/article/details/108729560)
 
 - 浏览器缓存策略
 
   - [浏览器缓存策略](https://www.cnblogs.com/roy1/p/13710238.html)
+  - [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
 
   - `Expires`和`Last-Modified`
 
