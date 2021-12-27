@@ -28,6 +28,15 @@
   - [「react 进阶」一文吃透 react-hooks 原理](https://juejin.cn/post/6944863057000529933)
 - useState
 - 组件更新优化
+- React文章
+  - [使用 React Hooks 声明 setInterval](https://overreacted.io/zh-hans/making-setinterval-declarative-with-react-hooks/)
+  - [使用 React Hooks 声明 setInterval](https://overreacted.io/zh-hans/making-setinterval-declarative-with-react-hooks/)
+  - [react-as-a-ui-runtime](https://overreacted.io/zh-hans/react-as-a-ui-runtime/)
+  - [函数式组件与类组件有何不同？](https://overreacted.io/zh-hans/how-are-function-components-different-from-classes/)
+  - [why-isnt-x-a-hook](https://overreacted.io/zh-hans/why-isnt-x-a-hook/)
+  - [why-do-react-elements-have-typeof-property](https://overreacted.io/zh-hans/why-do-react-elements-have-typeof-property/)
+  - [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
+
 - 什么是高阶组件，请举例说明
   - [什么是高阶组件，请举例说明](./md/什么是高阶组件，请举例说明.md)
 
@@ -41,6 +50,7 @@
   - 数组监听
 - nextTick
   - [浅析 Vue.nextTick()原理](https://segmentfault.com/a/1190000020499713?utm_source=sf-similar-article)
+  - [你真的理解$nextTick么](https://juejin.cn/post/6844903843197616136#heading-10)
 - v-model 原理
 - vue 动画
 - vue data 为什么是函数
@@ -86,7 +96,8 @@
     Taro原理
 
 # Javascript 基础
-
+- const 和 let
+  - [on let vs const](https://overreacted.io/on-let-vs-const/)
 - 节流防抖
 
   - [7 分钟理解 JS 的节流、防抖及使用场景](https://juejin.cn/post/6844903669389885453)
@@ -152,9 +163,17 @@
   - [webpack 热加载的实现原理](https://juejin.cn/post/6885348399924084744)
 
 # 浏览器
-
+- [怎么判断是在捕获还是冒泡](https://developer.mozilla.org/zh-CN/docs/Web/API/Event/eventPhase)
 - 事件循环
 - [【js 基础修炼之路】- 微任务,宏任务和 Event-Loop](https://blog.csdn.net/weixin_33922670/article/details/91415575)
+- [异步网络请求xhr、ajax、fetch与axios对比](https://juejin.cn/post/6844904058466074637)
+- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+- 网络知识
+  - [通过讲故事搞定前端网络知识](https://juejin.cn/post/6844903773588963342)
+  - [（建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.cn/post/6844904100035821575)
+- CDN
+  - [前端必需了解的CDN知识](https://juejin.cn/post/6913704568325046279#heading-19)
+  - [关于 cdn、回源等问题一网打尽](https://juejin.cn/post/6844903604596244493)
 - CORS
   - [面试官问我 CORS 跨域，我直接一套操作斩杀！](https://juejin.cn/post/6983852288091619342)
   - [15 张精美动图全面讲解 CORS](https://juejin.cn/post/6856556746706518024)
@@ -206,10 +225,12 @@
   - [http1/2/3 协议的对比（防忘）](https://www.jianshu.com/p/2e90fb951d17)
   - [http1 vs http2](https://http2.akamai.com/demo)
   - [一文读懂 HTTP/2 及 HTTP/3 特性](https://blog.fundebug.com/2019/03/07/understand-http2-and-http3/)
+  - [HTTP3.0和QUIC协议那些事](https://blog.csdn.net/wolfGuiDao/article/details/108729560)
 
 - 浏览器缓存策略
 
   - [浏览器缓存策略](https://www.cnblogs.com/roy1/p/13710238.html)
+  - [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
 
   - `Expires`和`Last-Modified`
 
@@ -229,11 +250,25 @@
 - 样式隔离
 - 代码隔离原理
 
+# Node
+  - [Redis缓存击穿、穿透、雪崩概念及解决方案](https://juejin.cn/post/7011672884271661064)
+  - [浏览器与Node的事件循环(Event Loop)有何区别?](https://juejin.cn/post/6844903761949753352#comment)
+  - [说说浏览器和 Node 事件循环的区别](https://xiaozhao.vip/exam/313/2111)
 # server less
+
+# 文章
+
+  - [前端年后面试题,80%直接进大厂](https://i1snanu3wq.feishu.cn/base/bascnktJuVJRVB24NPsuKjBW8Tq?table=tbl9GPmIX1pmslCs&view=vewJHSwJVd)
 
 # 业务题
 
+<<<<<<< HEAD
 - [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527) -[手写题](https://github.com/qianlongo/fe-handwriting)
+=======
+- [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527) 
+- [手写题](https://github.com/qianlongo/fe-handwriting)
+- [字节跳动面试过程--前端开发岗](https://zhuanlan.zhihu.com/p/141165007?utm_source=wechat_session&utm_medium=social&utm_oi=77664010371072) -[手写题](https://github.com/qianlongo/fe-handwriting)
+>>>>>>> 6ee8aae132bb0e0b61edfc99fffd1302a3ee66c0
 
 # 文章
 
@@ -245,3 +280,5 @@
 - 洗牌算法
   [洗牌算法(shuffle)的 js 实现](https://github.com/ccforward/cc/issues/44)
 - 反转二叉树
+- 转换小驼峰
+  - [[转换小驼峰](./src/toCame.js)
