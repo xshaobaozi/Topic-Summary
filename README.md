@@ -153,6 +153,8 @@
 
 # 浏览器
 
+- 事件循环
+- [【js 基础修炼之路】- 微任务,宏任务和 Event-Loop](https://blog.csdn.net/weixin_33922670/article/details/91415575)
 - CORS
   - [面试官问我 CORS 跨域，我直接一套操作斩杀！](https://juejin.cn/post/6983852288091619342)
   - [15 张精美动图全面讲解 CORS](https://juejin.cn/post/6856556746706518024)
@@ -231,8 +233,12 @@
 
 # 业务题
 
--[字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527) -[手写题](https://github.com/qianlongo/fe-handwriting)
+- [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527) -[手写题](https://github.com/qianlongo/fe-handwriting)
 
+# 文章
+
+- [死磕 36 个 JS 手写题（搞懂后，提升真的大）](https://juejin.cn/post/6946022649768181774#heading-39) 
+- [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/) 
 # 算法
 
 - 常用排序

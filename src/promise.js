@@ -151,27 +151,28 @@ class MyPromise {
   }
 }
 
-new MyPromise((resolve) => {
-  // setTimeout(() => {
-    resolve(1 + 1);
-  // }, 1 * 1000);
-})
-  .then((val) => {
-    console.log("then 2", val);
-    return val + 1;
-  })
-  .then((val) => {
-    console.log("then 3", val);
-    return new MyPromise((resolve) => {
-      setTimeout(() => {
-        resolve(val + 1);
-      }, 3 * 1000);
-    });
-  })
-  .then((val) => {
-    console.log("then 4", val);
-    return val + 1;
-  })
-  .then((val) => {
-    console.log("then 5", val);
-  });
+
+// new MyPromise((resolve) => {
+//   // setTimeout(() => {
+//     resolve(1 + 1);
+//   // }, 1 * 1000);
+// })
+//   .then((val) => {
+//     console.log("then 2", val);
+//     return val + 1;
+//   })
+//   .then((val) => {
+//     console.log("then 3", val);
+//     return new MyPromise((resolve) => {
+//       setTimeout(() => {
+//         resolve(val + 1);
+//       }, 3 * 1000);
+//     });
+//   })
+//   .then((val) => {
+//     console.log("then 4", val);
+//     return val + 1;
+//   })
+//   .then((val) => {
+//     console.log("then 5", val);
+//   });

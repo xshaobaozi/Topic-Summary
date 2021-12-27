@@ -40,25 +40,53 @@ class MyPromise {
   }
 }
 
-new MyPromise((resolve) => {
-  resolve(1 + 1);
-})
-  .then((val) => {
-    console.log("then 2", val);
-    return val + 1;
+// new MyPromise((resolve) => {
+//   resolve(1 + 1);
+// })
+//   .then((val) => {
+//     console.log("then 2", val);
+//     return val + 1;
+//   })
+//   .then((val) => {
+//     console.log("then 3", val);
+//     return new MyPromise((resolve) => {
+//       setTimeout(() => {
+//         resolve(val + 1);
+//       }, 3 * 1000);
+//     });
+//   })
+//   .then((val) => {
+//     console.log("then 4", val);
+//     return val + 1;
+//   })
+//   .then((val) => {
+//     console.log("then 5", val);
+//   });
+
+Promise.prototype.myRace = (arrs) => {
+    return new Promise((resolve, reject) => {
+        arrs.forEach(item => {
+            item.then(resolve, reject)
+
+        })
+    })
+}
+let p1 = new Promise((resolve, reject) => {
+  setTimeout(() => {
+    resolve("success");
+  }, 1000);
+});
+
+let p2 = new Promise((resolve, reject) => {
+  setTimeout(() => {
+    reject("failed");
+  }, 100);
+});
+
+Promise.race([p1, p2])
+  .then((result) => {
+    console.log(result, 1);
   })
-  .then((val) => {
-    console.log("then 3", val);
-    return new MyPromise((resolve) => {
-      setTimeout(() => {
-        resolve(val + 1);
-      }, 3 * 1000);
-    });
-  })
-  .then((val) => {
-    console.log("then 4", val);
-    return val + 1;
-  })
-  .then((val) => {
-    console.log("then 5", val);
+  .catch((error) => {
+    console.log(error, 2); // 打开的是 'failed'
   });
