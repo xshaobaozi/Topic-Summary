@@ -164,6 +164,7 @@
 
 # 浏览器
 - [怎么判断是在捕获还是冒泡](https://developer.mozilla.org/zh-CN/docs/Web/API/Event/eventPhase)
+
 - 事件循环
 - [【js 基础修炼之路】- 微任务,宏任务和 Event-Loop](https://blog.csdn.net/weixin_33922670/article/details/91415575)
 - [异步网络请求xhr、ajax、fetch与axios对比](https://juejin.cn/post/6844904058466074637)
@@ -262,13 +263,9 @@
 
 # 业务题
 
-<<<<<<< HEAD
-- [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527) -[手写题](https://github.com/qianlongo/fe-handwriting)
-=======
 - [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527) 
 - [手写题](https://github.com/qianlongo/fe-handwriting)
 - [字节跳动面试过程--前端开发岗](https://zhuanlan.zhihu.com/p/141165007?utm_source=wechat_session&utm_medium=social&utm_oi=77664010371072) -[手写题](https://github.com/qianlongo/fe-handwriting)
->>>>>>> 6ee8aae132bb0e0b61edfc99fffd1302a3ee66c0
 
 # 文章
 
